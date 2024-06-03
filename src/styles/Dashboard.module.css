@@ -1,0 +1,65 @@
+.dashboard {
+  background: url('./background.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+  padding: 20px;
+  height: 100vh;
+}
+
+.menuIcon {
+  cursor: pointer;
+  font-size: 1.5em;
+}
+
+.profileSettings {
+  display: flex;
+  align-items: center;
+}
+
+.profileSettings .menuIcon {
+  margin-right: 10px;
+}
+
+
+
+/* Dashboard.module.css 
+.dashboard {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #f8f8f8;
+}
+
+.dashboard h2 {
+    color: #333;
+}
+.dashboard nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.dashboard nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.dashboard nav ul li a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.dashboard nav ul li a:hover {
+    text-decoration: underline;
+}  
+.dashboard .content {
+    margin-top: 20px;
+}.dashboard {
+    Define styles for the dashboard container 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    Add any other styling properties you want 
+}
+*/
+

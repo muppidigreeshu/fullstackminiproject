@@ -1,0 +1,34 @@
+/* src/Global.module.css */
+
+.container {
+    padding: 20px;
+    text-align: center;
+}
+
+.title {
+    color: #333;
+    font-size: 2rem;
+}
+
+.text {
+    color: #555;
+    font-size: 1.2rem;
+}
+
+.nav {
+    list-style-type: none;
+    padding: 0;
+}
+
+.nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.link {
+    text-decoration: none;
+    color: #007bff;
+}
+.link:hover {
+    text-decoration: underline;
+}
